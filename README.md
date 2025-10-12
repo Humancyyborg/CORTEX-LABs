@@ -2,6 +2,11 @@
 
 
 # Aurevia 
+<img width="1024" height="1024" alt="ChatGPT Image Oct 12, 2025, 12_12_14 PM" src="https://github.com/user-attachments/assets/6a076bca-599e-4067-97f5-e0e6fe2f6918" />
+
+<img width="1024" height="1024" alt="ChatGPT Image Oct 12, 2025, 12_12_39 PM" src="https://github.com/user-attachments/assets/65c0c7aa-2eaf-4a51-a6f7-026f9cb3efd2" />
+
+<img width="1024" height="1024" alt="ChatGPT Image Oct 12, 2025, 12_12_23 PM" src="https://github.com/user-attachments/assets/a87d6d6c-314e-4a02-b2c2-c1e4058e01c7" />
 
 **AI-Powered Seizure Prediction Glasses**
 
